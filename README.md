@@ -1,2 +1,2 @@
-# Senha-prompt6-
+# Senha: "prompt6"
 Novo projeto de jogo
